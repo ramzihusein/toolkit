@@ -1,6 +1,6 @@
 ---
 - name: configure ACLs
-  hosts: routers
+  hosts: network
   gather_facts: no
 
   tasks:
